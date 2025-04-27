@@ -1,6 +1,6 @@
 # Personal Knowledge Assistant
 
-A RAG-based document processing and querying system that can handle PDF and Word documents.
+A RAG-based document processing and querying system that can handle PDF and Word documents. Agentic RAG system pactice project.
 
 ## Features
 
